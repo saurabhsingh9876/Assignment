@@ -1,0 +1,99 @@
+ /* div {
+    margin: 20px;
+  }
+   */
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .form {
+    display: flex;
+    margin:10px 25%;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"] {
+    width: 80%;
+    padding: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  .ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .li {
+    font-size: 16px;
+    margin: 5px 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  .li::before {
+    content: "⚫";
+    margin-right: 10px;
+  }
+  
+  /* Additional styling for active and hover states of list items */
+  
+   .li:hover {
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  .li.completed {
+    text-decoration: line-through;
+    color: #aaa;
+  }
+  
+  .li.completed::before {
+    content: "✔️";
+    margin-right: 10px;
+    color: #28a745;
+  }
+   
+  .navbar {
+    background-color: #333;
+    padding: 10px 0;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  
+  .navbar li {
+    margin: 0 15px;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .navbar-logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 0;
+  }

@@ -1,0 +1,51 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "harry",
+      "number": "998494749",
+      "pass": "6789ssss",
+      "id": 2
+    },
+    {
+      "name": "jack",
+      "number": "01234567826",
+      "pass": "ppppp6789",
+      "id": 3
+    },
+    {
+      "name": "jacki",
+      "number": "01234567823",
+      "pass": "ooooo99999",
+      "id": 4
+    },
+    {
+      "name": "pann",
+      "number": "998494710",
+      "pass": "8u8u8u8u8",
+      "id": 5
+    },
+    {
+      "name": "sunny",
+      "number": "9876543219",
+      "pass": "6789zzzz",
+      "id": 6
+    },
+    {
+      "name": "mma",
+      "number": "4567892345",
+      "pass": "8549fdb",
+      "id": 7
+    },
+    {
+      "name": "harry",
+      "number": "712345689",
+      "pass": "wwww11111",
+      "id": 8
+    }
+  ]
+}
